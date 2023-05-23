@@ -1,7 +1,7 @@
 Notmuch Addressbook manager for vim
 ===================================
 
-DEPENDENCES
+DEPENDENCE
 -----------
 
 * notmuch with python bindings
